@@ -17,7 +17,7 @@
    <div class="container" id="M">
       <div id="card" class="card">
     <div class="card-content">
-      <p>Was an incorrect action commited?</p>
+      <p>Was a goal or pre-concieved notion (with regard to a system/object) in mind while commiting an incorrect action?</p>
     </div>
     <div class="card-tabs">
       <ul class="tabs tabs-fixed-width">
