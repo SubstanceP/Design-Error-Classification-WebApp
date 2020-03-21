@@ -7,7 +7,7 @@
       <link rel = "stylesheet"   
          href = "https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.3/css/materialize.min.css">  
       <style>
-          .tabs {
+          .tabs-fixed-width {
             width:100% !important;
           }
       </style>
@@ -36,7 +36,7 @@
             <ul class="tabs tabs-fixed-width">
               <li class="tab"><a href="#test7">Yes</a></li>
               <li class="tab"><a href="#test8">No</a></li>
-              <li class="tab"><a class="active" style= href="#test8"> </a></li>
+              <li class="tab"><a class="active" style= href="#test8" style="color:white;"> </a></li>
             </ul>
           </div>
           <div class="card-content grey lighten-4">
@@ -54,7 +54,7 @@
             <ul class="tabs tabs-fixed-width">
               <li class="tab"><a href="#test10">Yes</a></li>
               <li class="tab"><a href="#test11">No</a></li>
-              <li class="tab"><a class="active" style= href="#test8"> </a></li>
+              <li class="tab"><a class="active" style= href="#test8 style="color:white;">.</a></li>
             </ul>
           </div>
           <div class="card-content grey lighten-4">
