@@ -54,7 +54,7 @@
             <ul class="tabs tabs-fixed-width">
               <li class="tab"><a href="#test10">Yes</a></li>
               <li class="tab"><a href="#test11">No</a></li>
-              <li class="tab"><a class="active" style= href="#test8 style="color:white;">.</a></li>
+              <li class="tab"><a class="active" style= href="#test8" style="color:white;"> </a></li>
             </ul>
           </div>
           <div class="card-content grey lighten-4">
