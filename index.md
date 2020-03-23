@@ -17,7 +17,7 @@
    <div class="container" id="M">
       <div id="card" class="card">
     <div class="card-content">
-      <p>Was a goal or pre-concieved notion (with regard to a system/object) in mind while commiting an incorrect action?</p>
+      <p>Was a goal or pre-concieved notion (with regard to a system/object) in mind while committing an incorrect action?</p>
     </div>
     <div class="card-tabs">
       <ul class="tabs tabs-fixed-width">
@@ -87,11 +87,11 @@
     </li>
     <li>
       <div class="collapsible-header"><i class="material-icons">place</i>Error Scenario Description</div>
-      <div class="collapsible-body"><span>Revelead answer through completion of the activity, including detailed justification.</span></div>
+      <div class="collapsible-body"><span>Revealed answer through completion of the activity, including detailed justification.</span></div>
     </li>
     <li>
       <div class="collapsible-header"><i class="material-icons">whatshot</i>Error Scenario Description</div>
-      <div class="collapsible-body"><span>LRevelead answer through completion of the activity, including detailed justification.</span></div>
+      <div class="collapsible-body"><span>Revealed answer through completion of the activity, including detailed justification.</span></div>
     </li>
   </ul>
   </div>
